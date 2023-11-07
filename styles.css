@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+button{
+	background-color:red;
+	border-radius: 5px;
+	padding:5px;
+	
+}
+
+div{
+	padding-left:30px;
+	justify-content:center;
+}
